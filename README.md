@@ -1,7 +1,5 @@
 ![ci](https://github.com/brainspill3r/postIIopen/actions/workflows/ci.yml/badge.svg)
 
-###Usage
-
 USAGE:
     postIIopen [input-file-path] [output-file-path]
 
