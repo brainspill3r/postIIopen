@@ -1,11 +1,16 @@
 ![ci](https://github.com/brainspill3r/postIIopen/actions/workflows/ci.yml/badge.svg)
 
 USAGE:
-    postIIopen [input-file-path] [output-file-path]
-
+    
+    ```
+    python3 postIIopen [input-file-path] [output-file-path]
+    ```
+    
 Example;
-    python postIIopen.py path/to/postman.json path/to/openapi.yml
-
+    
+    ```python
+    python3 postIIopen.py path/to/postman.json path/to/openapi.yml
+    ```
 
 A Python tool to convert Postman collections (JSON) to OpenAPI 3.0 definitions (YAML).
 
@@ -20,5 +25,7 @@ A Python tool to convert Postman collections (JSON) to OpenAPI 3.0 definitions (
 - Python 3.7 or newer
 - [PyYAML](https://pyyaml.org/)  
   Install via pip:
+
   ```bash
   pip install pyyaml
+  ```
