@@ -1,4 +1,4 @@
-![CI](https://github.com/brainspill3r/postIIopen/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/brainspill3r/postIIopen/actions/workflows/ci.yml/badge.svg)
 
 ###Usage
 
