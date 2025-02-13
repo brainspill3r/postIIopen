@@ -2,7 +2,7 @@
 
 ![ci](https://github.com/brainspill3r/postIIopen/actions/workflows/ci.yml/badge.svg)
 
-**A Python tool to convert Postman collections (JSON) to OpenAPI 3.0 definitions (YAML).**
+**A simple Python tool to convert Postman collections (JSON) to OpenAPI 3.0 definitions (YAML).**
 
 ## 🚀 USAGE
 
