@@ -37,4 +37,4 @@ python3 postIIopen.py path/to/postman.json path/to/openapi.yml
 Have fun converting your Postman collections into awesome OpenAPI specs! 🎉
 ```
 
----
+
